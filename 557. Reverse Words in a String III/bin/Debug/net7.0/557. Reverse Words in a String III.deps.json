@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "557. Reverse Words in a String III/1.0.0": {
+        "runtime": {
+          "557. Reverse Words in a String III.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "557. Reverse Words in a String III/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

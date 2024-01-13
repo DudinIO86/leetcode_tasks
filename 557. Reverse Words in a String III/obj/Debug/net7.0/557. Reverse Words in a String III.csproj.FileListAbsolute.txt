@@ -1,0 +1,14 @@
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\bin\Debug\net7.0\557. Reverse Words in a String III.exe
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\bin\Debug\net7.0\557. Reverse Words in a String III.deps.json
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\bin\Debug\net7.0\557. Reverse Words in a String III.runtimeconfig.json
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\bin\Debug\net7.0\557. Reverse Words in a String III.dll
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\bin\Debug\net7.0\557. Reverse Words in a String III.pdb
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\557. Reverse Words in a String III.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\557. Reverse Words in a String III.AssemblyInfoInputs.cache
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\557. Reverse Words in a String III.AssemblyInfo.cs
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\557. Reverse Words in a String III.csproj.CoreCompileInputs.cache
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\557. Reverse Words in a String III.dll
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\refint\557. Reverse Words in a String III.dll
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\557. Reverse Words in a String III.pdb
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\557. Reverse Words in a String III.genruntimeconfig.cache
+D:\программирование\обучение\Инженер программист\мои работы\leetcode\557. Reverse Words in a String III\obj\Debug\net7.0\ref\557. Reverse Words in a String III.dll
